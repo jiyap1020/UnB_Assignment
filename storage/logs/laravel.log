@@ -1,0 +1,132 @@
+[2023-04-02 01:55:02] local.ERROR: Class "Illuminate\HTML\HTMLServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\HTML\\HTMLServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\HTML...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 01:58:45] local.ERROR: Class "Illuminate\HTML\HTMLServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\HTML\\HTMLServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\HTML...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:01:26] local.ERROR: Class "Illuminate\HTML\HTMLServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\HTML\\HTMLServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\HTML...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:03:37] local.ERROR: Class "Illuminate\HTML\HTMLServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\HTML\\HTMLServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\HTML...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:08:28] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:10:22] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:15:00] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:21:00] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 02:58:01] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 03:00:19] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
+[2023-04-02 03:02:19] local.ERROR: Class "Illuminate\Html\HtmlServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Illuminate\\Html\\HtmlServiceProvider\" not found at C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php:206)
+[stacktrace]
+#0 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(142): Illuminate\\Foundation\\ProviderRepository->createProvider('Illuminate\\\\Html...')
+#1 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(61): Illuminate\\Foundation\\ProviderRepository->compileManifest(Array)
+#2 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(741): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(17): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(261): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(428): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 C:\\UnB_Internship\\UnB_Assignment\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(198): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 C:\\UnB_Internship\\UnB_Assignment\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 {main}
+"} 
