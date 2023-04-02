@@ -23,7 +23,7 @@
             <option value="100000-150000">$100,000-$150,000</option>
             <option value=">150000">Above $150,000</option>
         </select>
-    </div>
+    </div> 
     
     <div>
         <button type="submit">Submit</button>
